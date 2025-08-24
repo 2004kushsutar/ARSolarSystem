@@ -15,12 +15,14 @@ ARSolarSystem is an interactive Unity game that combines space exploration with 
     🥽 VR-Ready (Optional) – Can be extended with Unity XR Toolkit for VR interactions.
 
 🛠️ Tech Stack
+
     Game Engine: Unity 2022
     Language: C#
     UI: Unity UI Toolkit & TextMeshPro
     Version Control: Git & GitHub
 
 🚀 How to Play
+
     Start the game and view your fuel and boost status.
     Select a planet to begin a challenge.
     Answer the question correctly to continue exploring.
@@ -28,6 +30,7 @@ ARSolarSystem is an interactive Unity game that combines space exploration with 
     Win by reaching the final planet with resources left!
 
 📂 Project Structure
+
     Assets/Scripts/PlanetQuestManager.cs → Core game logic (fuel, boosts, questions).
     Assets/Prefabs/ → Planets, UI elements.
     Assets/Scenes/ → Main game scenes.
