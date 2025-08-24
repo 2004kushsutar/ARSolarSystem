@@ -5,7 +5,8 @@ ARSolarSystem is a Unity-based puzzle adventure game where players explore plane
 
 ARSolarSystem is an interactive Unity game that combines space exploration with puzzle-solving and quiz challenges. Players navigate between planets, manage fuel, use boosts, and answer questions to progress through the adventure.
 
-🎮 Features \n
+🎮 Features 
+
     🚀 Planet Exploration – Click or interact with planets to trigger challenges.
     ⛽ Fuel System – Each move consumes fuel, so players must plan their journey.
     ⚡ Boost Mechanic – Use boosts to travel without fuel consumption.
